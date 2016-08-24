@@ -1,4 +1,4 @@
-Kanban React.js App - Chapter 1
+Kanban React.js App 
 =================================
 
 Kanban-style project management tool built throughout the Pro React book. End of chapter 1.
